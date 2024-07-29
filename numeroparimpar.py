@@ -4,3 +4,5 @@ if n1 % 2 == 0:
     print (f"{n1} <- Esse numero é par")
 else :
     print (f" {n1} <- Esse numero é impar")
+    print (f" {n1} <- Esse numero é impar")
+    print (f" {n1} <- Esse numero é impar")

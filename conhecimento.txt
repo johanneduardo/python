@@ -1,0 +1,17 @@
+#while, nao sabe quantas vezes o laco vai rodar  ex =  nota valida while
+
+#for seria legal para tabuada, numero determinado
+
+#listas podem ter o metodo append ou insert, insert voce pode escolher onde vai tal coisa
+
+#append apenas adiciona
+
+#pop serve para apagar a pessoa atraves do index  
+
+#remove para apagar pessoas atraves do nome
+
+#sort serve para deixar na ordem alfabetica 
+
+#sorted que traz a lista desordenada e a lista ordenada
+
+

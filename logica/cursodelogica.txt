@@ -1,0 +1,38 @@
+algoritmo nada mais e que a sequencia de passos logicos para determinar tal funcao ou resolevr um problema
+
+sempre escrever o passo a passo, entender o que ira se passar no programa como uma (receita)
+
+como eu faria essa tarefa se eu fosse faze-la manualmente
+
+enviar um email com nosso codigo
+
+1. Abrir o navegador
+2. Entrar no gmail
+3. Fazer login
+4. Criar email atraves do botao
+5. Escrever email
+6. Enviar o email
+
+
+VARIAVEIS E CONSTANTES
+
+- Local que ira alocar um valor que até então nao tem um valor fixo
+- COnstantes já tem um valor pré alocado
+
+TIPOS DE DADOS
+-INTEIRO
+-FLOAT
+-STRING
+-BOOLEAN
+
+ESTRUTURA DE DADOS E COLEÕES
+
+-LISTAS
+listas uma informação apra cada item
+
+-DICIONARIOS
+combinação de chave e valor
+
+OPERADORES 
+-MATEMATICOS
+-LOGICOS E COMPARATIVOS

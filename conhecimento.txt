@@ -1,7 +1,18 @@
+ESTRUTURA DE CONDICAO
+#if para criar uma estrutura "se"
+#else senao
+#elif senao-se
+
+
+
+LAÇOS DE REPETICAO
 #while, nao sabe quantas vezes o laco vai rodar  ex =  nota valida while
 
 #for seria legal para tabuada, numero determinado
 
+LISTAS EM GERAL
+
+#.copy = interessante nessa explicacao onde x = [1,1,1] y [0] = 0 nesse caso o y iria atulaizar a lista, se colocarmos .copy, iremos criar uma nova lista com as caracteristicas iguais
 #listas podem ter o metodo append ou insert, insert voce pode escolher onde vai tal coisa
 
 #append apenas adiciona

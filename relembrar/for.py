@@ -2,8 +2,10 @@
 
 #for como consequencia e quando ja se tem um tamanho "exato"
 
-i = 1
+'''interessante que em for nao precisamos declarar uma variavel para trabalhar, tipo i = 0, comandamos tudo dentro de uma função'''
 
-for i in range (4):
-    print (i)
-    i += 1 
+
+for i in range (1,11):
+    print(f"========== TABUADA {i} =========")
+    for j in range (1,11):
+        print (f"{i} x {j} == {i * j}")
